@@ -5,3 +5,5 @@ Este proyecto implementa un juego clásico de Pong de Atari para Lilygo TTgo VGA
 
 ## Más información
 [https://minibots.wordpress.com/2025/10/18/emulador-de-atari-pong-con-lilygo-ttgo-vga32/]
+
+Más sobre retroinformática aquí: [https://minibots.wordpress.com/retroinformatica/]
